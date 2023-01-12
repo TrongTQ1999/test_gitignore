@@ -50,6 +50,7 @@ int main()
 	printf("F2");
 	printf("D5");
 	printf("F3");
+	printf("F4");
 
 	while(1);
 	mosquitto_disconnect(mosq);
