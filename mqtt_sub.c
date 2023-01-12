@@ -48,6 +48,10 @@ int main()
 	printf("D3");
 	printf("F1");
 	printf("F2");
+	printf("D5");
+	printf("D6");
+	printf("F3");
+	printf("F4");
 
 	while(1);
 	mosquitto_disconnect(mosq);
