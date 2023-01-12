@@ -43,6 +43,8 @@ int main()
 
 	mosquitto_loop_start(mosq);
 
+	printf('D1');
+
 	while(1);
 	mosquitto_disconnect(mosq);
 	mosquitto_destroy(mosq);
