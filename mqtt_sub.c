@@ -45,6 +45,7 @@ int main()
 
 	printf('D1');
 	printf('D2');
+	printf("D3");
 
 	while(1);
 	mosquitto_disconnect(mosq);
