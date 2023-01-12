@@ -43,8 +43,8 @@ int main()
 
 	mosquitto_loop_start(mosq);
 
-	printf('D1');
-	printf('D2');
+	printf("D1");
+	printf("D2");
 	printf("D3");
 	printf("F1");
 	printf("F2");
