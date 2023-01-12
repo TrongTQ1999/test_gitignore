@@ -44,6 +44,7 @@ int main()
 	mosquitto_loop_start(mosq);
 
 	printf('D1');
+	printf('D2');
 
 	while(1);
 	mosquitto_disconnect(mosq);
