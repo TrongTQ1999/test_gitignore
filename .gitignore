@@ -1,5 +1,2 @@
 # ignore ALL .log files
-*.log
-# ignore ALL files in ANY directory named temp
-mqtt_pub.c
-mqtt_sub.c
+*.txt
